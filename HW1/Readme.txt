@@ -7,5 +7,3 @@ Transpose.h:標頭檔 宣告method1,method2 可用DEV C++開啟檢視或修改
 Transpose.cpp:包含method1跟method2的程式碼 可用DEV C++開啟檢視或修改
 
 main.cpp:主程式 可用DEV C++開啟檢視,修改或執行
-
-HW1_F74102103.exe:執行檔 滑鼠雙擊即可執行main.cpp
