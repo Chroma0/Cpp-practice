@@ -1,0 +1,49 @@
+File name: test2.txt
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Insert:
+Number 40 is inserted.
+Number 36 is inserted.
+Number 54 is inserted.
+Number 48 is inserted.
+Number 67 is inserted.
+Number 33 is inserted.
+Number 38 is inserted.
+Number 39 is inserted.
+Number 31 is inserted.
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Delete:
+Number 36 is deleted.
+Number 33 is deleted.
+Number 67 is deleted.
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Print: 
+The tree in prefix order: 40 38 31 39 54 48 
+The tree in infix order: 31 38 39 40 48 54 
+The tree in post order: 31 39 38 48 54 40 
+The tree in level order: 40 38 54 31 39 48 
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Exit

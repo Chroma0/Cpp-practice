@@ -1,0 +1,118 @@
+File name: test3.txt
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Insert:
+Number 789456 is inserted.
+Number 22365 is inserted.
+Number 111142 is inserted.
+Number 222555 is inserted.
+Error! Number 22365 exists.
+Number 111111 is inserted.
+Number 365444 is inserted.
+Number 852133 is inserted.
+Error! Number 22365 exists.
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Delete:
+Number 11111 is not exist.
+Number 111111 is deleted.
+Number 36544 is not exist.
+Number 222555 is deleted.
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Search:
+Sorry! 11111 is not found.
+Sorry! 111111 is not found.
+Bingo! 111142 is found.
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Print: 
+The tree in prefix order: 789456 22365 111142 365444 852133 
+The tree in infix order: 22365 111142 365444 789456 852133 
+The tree in post order: 365444 111142 22365 852133 789456 
+The tree in level order: 789456 22365 852133 111142 365444 
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Insert:
+Error! Number 365444 exists.
+Number 111111 is inserted.
+Error! Number 22365 exists.
+Number 65455231 is inserted.
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Print: 
+The tree in prefix order: 789456 22365 111142 111111 365444 852133 65455231 
+The tree in infix order: 22365 111111 111142 365444 789456 852133 65455231 
+The tree in post order: 111111 365444 111142 22365 65455231 852133 789456 
+The tree in level order: 789456 22365 852133 111142 65455231 111111 365444 
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Delete:
+Number 111111 is deleted.
+Number 22365 is deleted.
+Number 22364 is not exist.
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Search:
+Sorry! 111111 is not found.
+Bingo! 111142 is found.
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Print: 
+The tree in prefix order: 789456 111142 365444 852133 65455231 
+The tree in infix order: 111142 365444 789456 852133 65455231 
+The tree in post order: 365444 111142 65455231 852133 789456 
+The tree in level order: 789456 111142 852133 365444 65455231 
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Exit

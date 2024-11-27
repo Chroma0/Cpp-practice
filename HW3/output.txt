@@ -1,0 +1,81 @@
+File name: sample.txt
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Insert:
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Delete:
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Search:
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Print:
+The tree in prefix order: 
+The tree in infix order: 
+The tree in post order: 
+The tree in level order: 
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Print:
+The tree in prefix order: 
+The tree in infix order: 
+The tree in post order: 
+The tree in level order: 
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Print:
+The tree in prefix order: 
+The tree in infix order: 
+The tree in post order: 
+The tree in level order: 
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Print:
+The tree in prefix order: 
+The tree in infix order: 
+The tree in post order: 
+The tree in level order: 
+
+(I)nsert a number.
+(D)elete a number.
+(S)earch a number.
+(P)rint 4 kinds of orders.
+(E)xit
+
+Exit

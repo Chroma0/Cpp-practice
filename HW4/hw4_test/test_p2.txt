@@ -1,0 +1,31 @@
+29
+a e 127
+a g 101
+b c 1024
+b n 2048
+b o 5
+c d 523
+c h 633
+c k 77
+d e 882
+d f 369
+d i 856
+d l 457
+d m 785
+d o 968
+e i 687
+f g 347
+f l 456
+f m 237
+g j 231
+g m 754
+g o 222
+h j 105
+h k 123
+i l 743
+i k 777
+i n 444
+j k 100
+k o 174
+m o 114
+b

@@ -1,0 +1,10 @@
+8
+a e 42
+b a 5
+c b 67
+c f 6
+d c 76
+e b 7
+e d 11
+f d 34
+d
